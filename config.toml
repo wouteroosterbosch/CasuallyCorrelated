@@ -1,4 +1,4 @@
-baseurl             = "https://you.github.io/"
+baseurl             = "https://casuallycorrelated.mybluemix.net/"
 builddrafts         = false
 canonifyurls        = true
 contentdir          = "content"
@@ -6,8 +6,8 @@ languageCode        = "en-US"
 layoutdir           = "layouts"
 publishdir          = "public"
 theme = "cocoa-hugo-theme"
-author              = "Arthur Dent"
-title               = "Arthur Dent"
+author              = "Wouter Oosterbosch"
+title               = "Casually Correlated"
 pygmentsuseclasses  = true
 disqusshortname     = "cocoaexamplesite" # Comment out to disable Disqus.
 pluralizelisttitles = false
@@ -38,7 +38,7 @@ url                    = "/code/"
 [params]
 latestpostscount       = 5                             # how many posts to display on the home page
 i18n_flags             = false                         # whether to display small country flags for available translations
-author                 = "Arthur Dent"
+author                 = "Wouter Oosterbosch"
 cachebuster            = true                          # add the current unix timestamp in query string for cache busting css assets
 dateform               = "Jan 2, 2006"
 dateformfull           = "Mon Jan 2 2006 15:04:05 MST"
